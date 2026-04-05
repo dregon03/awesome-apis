@@ -97,6 +97,7 @@
 - [NOAA API](https://www.noaa.gov/data) – Weather, climate, and environmental datasets via API.
 - [UN Data API](https://unstats.un.org/unsd/) – Global demographic, economic, and development data.
 - [World Bank API](https://data.worldbank.org/developers) – Economic indicators and global development metrics.
+- [Statistics of the World API](https://statisticsoftheworld.com/api-docs) – 440+ economic indicators for 218 countries from IMF, World Bank, WHO, and UN. Free, no auth required.
 - [OpenWeatherMap](https://openweathermap.org/api) – Weather forecasts, climate data, and sensor readings.
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
